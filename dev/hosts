@@ -1,0 +1,5 @@
+[spring]
+3.87.192.106 ansible_user=centos
+
+[ubuntu]
+3.93.219.152 ansible_user=ubuntu
